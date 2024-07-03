@@ -1,13 +1,13 @@
-![Filament Harmony Theme Banner](art/list-orders.png)
+![Filament Harmony Theme Banner](https://raw.githubusercontent.com/angelej/filament-harmony-theme-docs/main/art/list-orders.png)
 # Filament Harmony Theme
 The Filament Harmony Theme is a beautiful and responsive theme for your Filament panel.
 
 ## Screenshots
-![Dashboard Page](art/dashboard.png)
-![Dashboard Page with open Navigation](art/dashboard-navigation.png)
-![List Orders Page](art/list-orders.png)
-![Create Order Page](art/create-order.png)
-![Update Order Page](art/update-order.png)
+![Dashboard Page](https://raw.githubusercontent.com/angelej/filament-harmony-theme-docs/main/art/dashboard.png)
+![Dashboard Page with open Navigation](https://raw.githubusercontent.com/angelej/filament-harmony-theme-docs/main/art/dashboard-navigation.png)
+![List Orders Page](https://raw.githubusercontent.com/angelej/filament-harmony-theme-docs/main/art/list-orders.png)
+![Create Order Page](https://raw.githubusercontent.com/angelej/filament-harmony-theme-docs/main/art/create-order.png)
+![Update Order Page](https://raw.githubusercontent.com/angelej/filament-harmony-theme-docs/main/art/update-order.png)
 
 ## Installation
 Filament Harmony Theme can be installed using our private Composer repository. Configure the repository in your
